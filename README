@@ -1,0 +1,29 @@
+Procedure to build and run the game:
+
+1.Open up a terminal and go to the current directory
+2.Run the following command
+
+>make clean
+
+>make
+
+>java Asteroids
+
+The game will start!
+
+
+Keyboard buttons:
+1)ESC - Pauses the game
+2)Enter - choose
+3)E - Exits from the game
+
+Player1:
+1)UP/DOWN - thrust and back
+2)LEFT/RIGHT - rotate direction
+3)Alt - Shoots bullets from the spaceship
+
+Player2:
+1)W/A - thrust and back
+2)S/D - - rotate direction
+3)SPACE - Shoots bullets from the spaceship
+
